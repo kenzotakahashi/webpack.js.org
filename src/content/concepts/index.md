@@ -44,7 +44,7 @@ module.exports = {
 };
 ```
 
-T> You can configure the `entry` property in various ways depending the needs of your application. Learn more in the [entry points](/concepts/entry-points) section.
+T> You can configure the `entry` property in various ways depending on the needs of your application. Learn more in the [entry points](/concepts/entry-points) section.
 
 
 ## Output
